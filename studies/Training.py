@@ -11,6 +11,7 @@ else:
 word = ("You need to study more!" )
 name = ("Matheus")
 
+
 number1 = float(input("Type your note test: ")) #Under 10! 
 number2 = float(input("Type your note test: "))
 number3 = float(input("Type your note test: "))
