@@ -22,6 +22,5 @@ print(average)
 if average >= 6:
     print("You are so smart!")
 else:
-    print("You need to study more", (name), "!")
-
+    print(f"{word} {name}!")
 
